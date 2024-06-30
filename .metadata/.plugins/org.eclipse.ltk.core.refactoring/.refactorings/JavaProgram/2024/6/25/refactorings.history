@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JavaTheroyProgram.SwiteCase&apos; to &apos;SwitchCase&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgram&apos;&#x0D;&#x0A;- Original element: &apos;JavaTheroyProgram.SwiteCase&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaTheroyProgram.SwitchCase&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwiteCase&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;JavaTheroyProgram{SwiteCase.java[SwiteCase" matchStrategy="1" name="SwitchCase" qualified="false" references="true" similarDeclarations="false" stamp="1719054268549" textual="false" version="1.0"/>
+</session>
